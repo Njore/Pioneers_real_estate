@@ -1,0 +1,301 @@
+"PropertyID","Location","Type","Bedrooms","Bathrooms","Size_sqm","Status","DateListed","Price"
+1,"Westlands","Bungalow",1,4,24,"For Sale",2024-07-06,10611302
+2,"Westlands","Bungalow",4,3,189,"For Sale",2024-07-11,3848969
+3,"Parklands","Apartment",1,3,133,"For Sale",2024-09-22,13070321
+4,"Kileleshwa","Maisonette",5,1,196,"For Sale",2024-05-09,14001905
+5,"Embakasi","Apartment",2,3,166,"For Sale",2024-12-20,11363512
+6,"Runda","Maisonette",5,4,150,"For Rent",2024-12-30,99622
+7,"Karen","Maisonette",2,4,137,"For Rent",2024-08-18,94599
+8,"Lavington","Maisonette",2,2,226,"For Sale",2024-08-07,14931233
+9,"Embakasi","Condo",3,3,45,"For Rent",2024-07-16,208932
+10,"Donholm","Townhouse",2,4,149,"For Sale",2024-03-01,7875979
+11,"Parklands","Townhouse",3,3,271,"For Sale",2024-09-27,10483558
+12,"Runda","Condo",3,1,130,"For Sale",2024-07-03,14080708
+13,"Karen","Townhouse",1,1,217,"For Sale",2024-11-01,15818807
+14,"Westlands","Apartment",1,1,168,"For Sale",2024-03-14,12196971
+15,"Runda","Maisonette",5,1,163,"For Sale",2024-07-22,18646388
+16,"Donholm","Apartment",1,2,145,"For Sale",2024-05-15,9416902
+17,"Donholm","Maisonette",5,2,117,"For Rent",2024-05-15,50000
+18,"Donholm","Bungalow",1,3,146,"For Sale",2024-04-14,7624400
+19,"Westlands","Maisonette",2,3,120,"For Rent",2024-05-11,74186
+20,"Kahawa Sukari","Bungalow",1,2,164,"For Sale",2024-04-25,10605019
+21,"Parklands","Apartment",3,1,76,"For Sale",2024-09-27,5452476
+22,"South C","Townhouse",3,4,133,"For Sale",2024-12-02,6840091
+23,"Parklands","Maisonette",4,4,201,"For Sale",2024-08-06,5071509
+24,"Donholm","Bungalow",2,4,60,"For Rent",2024-06-10,56466
+25,"Westlands","Condo",4,1,199,"For Sale",2024-06-03,3322775
+26,"Lavington","Condo",3,3,128,"For Rent",2024-01-13,149876
+27,"Kilimani","Bungalow",1,2,237,"For Sale",2024-01-25,11208273
+28,"Runda","Maisonette",3,1,151,"For Sale",2024-06-29,9820536
+29,"South C","Condo",4,4,201,"For Sale",2024-06-29,6634899
+30,"Karen","Townhouse",2,1,172,"For Sale",2024-04-27,19570794
+31,"Parklands","Maisonette",5,2,68,"For Sale",2024-10-08,7977492
+32,"South C","Apartment",2,3,160,"For Rent",2024-10-27,50000
+33,"Donholm","Townhouse",1,1,152,"For Sale",2024-05-17,9662432
+34,"Donholm","Apartment",2,4,162,"For Sale",2024-09-17,8610992
+35,"Parklands","Townhouse",3,2,175,"For Rent",2024-09-18,162736
+36,"South C","Condo",3,4,146,"For Sale",2024-05-28,11248867
+37,"Runda","Townhouse",2,4,144,"For Sale",2024-03-21,19967400
+38,"Karen","Maisonette",2,4,20,"For Rent",2024-10-08,56171
+39,"South C","Maisonette",4,1,138,"For Sale",2024-12-22,7394610
+40,"Karen","Townhouse",5,2,206,"For Rent",2024-12-28,133020
+41,"Runda","Bungalow",2,3,209,"For Sale",2024-12-16,9243893
+42,"Embakasi","Condo",3,2,209,"For Sale",2024-08-27,4497812
+43,"Donholm","Maisonette",1,1,187,"For Rent",2024-11-27,79755
+44,"Kileleshwa","Bungalow",5,4,150,"For Sale",2024-10-25,13804661
+45,"Karen","Bungalow",3,3,109,"For Rent",2024-10-06,115137
+46,"Kahawa Sukari","Bungalow",2,3,126,"For Sale",2024-07-18,11489644
+47,"Kileleshwa","Apartment",1,4,126,"For Sale",2024-03-05,11509167
+48,"Kilimani","Apartment",4,4,188,"For Sale",2024-11-13,11252958
+49,"Donholm","Bungalow",4,1,148,"For Sale",2024-03-14,6254349
+50,"Runda","Townhouse",3,2,188,"For Rent",2024-06-04,50000
+51,"Donholm","Townhouse",1,1,42,"For Rent",2024-02-21,90367
+52,"Embakasi","Condo",2,1,114,"For Sale",2024-05-30,15240900
+53,"Karen","Maisonette",3,1,123,"For Sale",2024-09-27,16035860
+54,"Donholm","Maisonette",1,3,203,"For Sale",2024-06-15,8819707
+55,"Parklands","Townhouse",1,4,77,"For Rent",2024-08-08,146664
+56,"Lavington","Maisonette",2,3,160,"For Rent",2024-11-06,180724
+57,"Embakasi","Apartment",2,2,129,"For Sale",2024-03-26,3326533
+58,"Runda","Townhouse",4,2,227,"For Sale",2024-12-16,7869077
+59,"Kahawa Sukari","Bungalow",3,2,175,"For Rent",2024-07-22,185110
+60,"Embakasi","Apartment",2,4,205,"For Rent",2024-10-02,120072
+61,"Embakasi","Condo",2,4,112,"For Sale",2024-03-13,10722655
+62,"South C","Bungalow",5,4,210,"For Sale",2024-06-04,11851871
+63,"Kilimani","Townhouse",1,3,172,"For Sale",2024-09-15,12383292
+64,"Embakasi","Maisonette",3,2,195,"For Rent",2024-10-27,83356
+65,"Kileleshwa","Condo",2,4,133,"For Sale",2024-11-12,18341413
+66,"Kilimani","Condo",2,4,226,"For Rent",2024-02-29,120853
+67,"Kileleshwa","Maisonette",4,1,95,"For Sale",2024-08-28,15632062
+68,"Lavington","Maisonette",4,1,130,"For Sale",2024-09-07,12740935
+69,"Karen","Maisonette",4,4,97,"For Sale",2024-07-20,9316869
+70,"Embakasi","Apartment",5,1,116,"For Rent",2024-09-17,132575
+71,"Westlands","Bungalow",5,1,189,"For Sale",2024-01-12,5419023
+72,"Donholm","Townhouse",4,3,136,"For Sale",2024-05-12,7546905
+73,"Lavington","Bungalow",4,2,163,"For Sale",2024-12-09,24863518
+74,"Embakasi","Bungalow",2,4,268,"For Sale",2024-03-02,7157780
+75,"Donholm","Bungalow",5,2,181,"For Sale",2024-03-08,10202296
+76,"Donholm","Townhouse",2,1,157,"For Sale",2024-05-03,12611983
+77,"South C","Townhouse",2,3,197,"For Rent",2024-12-19,92179
+78,"Westlands","Bungalow",4,1,154,"For Sale",2024-04-05,7902025
+79,"Kahawa Sukari","Townhouse",5,4,120,"For Sale",2024-07-11,12910272
+80,"Donholm","Maisonette",3,3,207,"For Sale",2024-03-23,7012874
+81,"Westlands","Bungalow",3,2,156,"For Sale",2024-02-08,187885
+82,"South C","Townhouse",2,2,180,"For Sale",2024-01-29,9541951
+83,"Westlands","Maisonette",2,2,165,"For Rent",2024-01-05,86091
+84,"South C","Apartment",1,3,158,"For Sale",2024-01-26,5004385
+85,"Embakasi","Bungalow",3,1,166,"For Rent",2024-10-10,157402
+86,"Parklands","Townhouse",5,1,81,"For Rent",2024-10-29,126390
+87,"Karen","Apartment",3,1,174,"For Sale",2024-03-10,19514382
+88,"Karen","Apartment",5,2,97,"For Sale",2024-08-05,17376962
+89,"Kahawa Sukari","Townhouse",1,4,148,"For Rent",2024-08-07,227699
+90,"Westlands","Townhouse",2,4,150,"For Sale",2024-11-21,8425422
+91,"Parklands","Condo",4,1,134,"For Sale",2024-09-07,11666710
+92,"Kileleshwa","Apartment",3,4,78,"For Sale",2024-01-04,14970911
+93,"Parklands","Townhouse",5,2,238,"For Sale",2024-07-10,5445904
+94,"Kileleshwa","Condo",5,2,142,"For Sale",2024-01-22,20159613
+95,"Parklands","Bungalow",5,2,61,"For Rent",2024-11-30,204201
+96,"Embakasi","Maisonette",4,4,100,"For Sale",2024-09-18,992158
+97,"Lavington","Condo",3,3,193,"For Sale",2024-02-26,31452587
+98,"Kilimani","Townhouse",3,1,184,"For Sale",2024-03-07,18683428
+99,"Embakasi","Townhouse",2,2,122,"For Sale",2024-07-31,8065793
+100,"Westlands","Apartment",2,4,172,"For Sale",2024-03-14,7428923
+101,"Kahawa Sukari","Bungalow",2,4,199,"For Rent",2024-04-10,133364
+102,"Westlands","Bungalow",2,4,170,"For Sale",2024-08-04,8566548
+103,"Kahawa Sukari","Bungalow",2,3,117,"For Sale",2024-04-11,8305817
+104,"Kilimani","Condo",3,1,186,"For Sale",2024-04-01,13442627
+105,"South C","Maisonette",1,3,119,"For Sale",2024-11-16,5518956
+106,"Runda","Condo",1,1,147,"For Rent",2024-06-11,59013
+107,"South C","Maisonette",1,3,188,"For Sale",2024-10-22,11532753
+108,"South C","Apartment",1,2,99,"For Sale",2024-01-02,10050421
+109,"Parklands","Townhouse",3,4,115,"For Rent",2024-06-22,176419
+110,"Embakasi","Maisonette",1,1,110,"For Rent",2024-10-01,155620
+111,"South C","Maisonette",2,2,132,"For Rent",2024-12-11,186928
+112,"Runda","Bungalow",3,2,65,"For Sale",2024-10-15,21845499
+113,"Parklands","Condo",4,1,159,"For Sale",2024-03-27,11632761
+114,"Karen","Apartment",4,2,208,"For Sale",2024-06-13,10509894
+115,"Embakasi","Bungalow",3,4,155,"For Sale",2024-07-10,2662957
+116,"Kahawa Sukari","Bungalow",4,1,169,"For Sale",2024-08-03,11904118
+117,"Karen","Maisonette",2,2,127,"For Sale",2024-11-12,12621925
+118,"South C","Condo",3,3,106,"For Rent",2024-11-10,132338
+119,"Runda","Apartment",4,2,145,"For Sale",2024-11-15,22250640
+120,"Lavington","Townhouse",3,3,109,"For Sale",2024-08-11,20545094
+121,"Westlands","Townhouse",4,3,96,"For Sale",2024-09-25,10439837
+122,"Donholm","Apartment",5,2,144,"For Sale",2024-03-13,6046364
+123,"South C","Bungalow",1,2,116,"For Sale",2024-09-12,7086227
+124,"Embakasi","Townhouse",5,2,101,"For Sale",2024-09-29,6754708
+125,"Parklands","Townhouse",4,1,100,"For Sale",2024-12-16,16448253
+126,"Donholm","Apartment",5,3,212,"For Sale",2024-09-09,8378441
+127,"South C","Condo",1,1,184,"For Sale",2024-01-08,9418401
+128,"Kileleshwa","Bungalow",1,3,144,"For Sale",2024-06-13,22051196
+129,"Westlands","Townhouse",1,2,97,"For Sale",2024-09-24,7274628
+130,"Kahawa Sukari","Maisonette",2,2,152,"For Sale",2024-12-05,12136264
+131,"Lavington","Bungalow",2,4,165,"For Sale",2024-09-17,7270417
+132,"South C","Maisonette",4,2,70,"For Rent",2024-02-26,58202
+133,"Lavington","Bungalow",1,2,112,"For Sale",2024-11-01,15172638
+134,"Kilimani","Bungalow",2,3,119,"For Rent",2024-08-19,51962
+135,"Kahawa Sukari","Apartment",1,2,164,"For Sale",2024-06-27,13877192
+136,"Lavington","Condo",3,3,106,"For Sale",2024-06-11,20116009
+137,"Donholm","Townhouse",3,3,115,"For Sale",2024-05-12,14033879
+138,"Kahawa Sukari","Townhouse",1,4,15,"For Rent",2024-04-17,73547
+139,"Embakasi","Condo",4,3,142,"For Sale",2024-02-06,12071359
+140,"Runda","Bungalow",3,1,107,"For Rent",2024-07-01,146182
+141,"Lavington","Maisonette",5,1,116,"For Sale",2024-06-02,12758829
+142,"Kahawa Sukari","Townhouse",2,2,160,"For Sale",2024-11-11,10629294
+143,"Westlands","Condo",4,2,181,"For Sale",2024-07-02,4186349
+144,"Lavington","Maisonette",2,1,160,"For Sale",2024-01-31,17175452
+145,"Lavington","Bungalow",2,1,112,"For Rent",2024-11-03,151853
+146,"Embakasi","Bungalow",1,3,182,"For Rent",2024-09-21,109376
+147,"Kilimani","Apartment",1,3,233,"For Sale",2024-06-29,20062686
+148,"Parklands","Bungalow",3,1,183,"For Sale",2024-09-29,7327622
+149,"Runda","Maisonette",5,2,103,"For Rent",2024-12-26,66389
+150,"Lavington","Bungalow",5,1,186,"For Rent",2024-12-27,188641
+151,"Runda","Bungalow",1,1,216,"For Rent",2024-12-22,95209
+152,"Donholm","Apartment",4,2,108,"For Rent",2024-11-14,77209
+153,"South C","Maisonette",2,4,147,"For Sale",2024-04-05,4682556
+154,"Kahawa Sukari","Maisonette",3,2,85,"For Sale",2024-08-25,5996396
+155,"Karen","Maisonette",3,4,101,"For Sale",2024-06-03,21888379
+156,"Kileleshwa","Townhouse",2,2,93,"For Rent",2024-10-10,65970
+157,"Runda","Apartment",5,1,189,"For Sale",2024-04-30,19147870
+158,"Embakasi","Condo",4,2,172,"For Rent",2024-08-10,50000
+159,"Donholm","Condo",1,2,202,"For Sale",2024-09-26,2856537
+160,"Kahawa Sukari","Bungalow",4,1,199,"For Sale",2024-05-20,11143481
+161,"Parklands","Bungalow",3,4,34,"For Sale",2024-10-29,6174135
+162,"Lavington","Condo",5,3,119,"For Sale",2024-09-26,10914125
+163,"Karen","Apartment",5,2,225,"For Rent",2024-08-18,149159
+164,"South C","Townhouse",4,1,218,"For Rent",2024-08-10,158739
+165,"Kilimani","Maisonette",5,2,137,"For Sale",2024-07-20,15681476
+166,"Kahawa Sukari","Condo",1,3,187,"For Sale",2024-12-14,4708581
+167,"Kahawa Sukari","Townhouse",5,4,137,"For Sale",2024-01-09,10776534
+168,"Parklands","Condo",4,1,67,"For Sale",2024-07-23,8740398
+169,"Donholm","Apartment",5,2,176,"For Sale",2024-03-18,5789685
+170,"Kahawa Sukari","Maisonette",5,4,88,"For Rent",2024-10-30,147168
+171,"Kileleshwa","Bungalow",5,3,168,"For Sale",2024-03-09,17528501
+172,"Karen","Apartment",3,2,267,"For Sale",2024-03-30,12365323
+173,"Donholm","Apartment",4,2,126,"For Sale",2024-07-23,8832340
+174,"South C","Bungalow",5,3,124,"For Sale",2024-11-29,9610568
+175,"South C","Maisonette",5,1,54,"For Sale",2024-03-11,6618543
+176,"Parklands","Townhouse",4,2,183,"For Rent",2024-11-10,132469
+177,"Parklands","Condo",4,1,139,"For Sale",2024-11-15,8710814
+178,"Kahawa Sukari","Bungalow",3,3,75,"For Rent",2024-02-14,121886
+179,"Embakasi","Townhouse",3,4,131,"For Sale",2024-11-08,11657683
+180,"South C","Condo",4,4,240,"For Sale",2024-02-15,8522408
+181,"Parklands","Bungalow",1,1,179,"For Rent",2024-03-17,188381
+182,"Runda","Apartment",4,4,109,"For Sale",2024-05-05,14159462
+183,"Kilimani","Condo",2,4,199,"For Sale",2024-04-26,21876377
+184,"Donholm","Maisonette",2,4,121,"For Sale",2024-04-25,14138057
+185,"Westlands","Townhouse",4,3,149,"For Rent",2024-06-19,50000
+186,"Parklands","Maisonette",1,1,111,"For Rent",2024-05-22,123252
+187,"Karen","Apartment",1,1,52,"For Sale",2024-12-18,27886340
+188,"Embakasi","Condo",2,4,200,"For Sale",2024-10-03,9323879
+189,"Runda","Maisonette",4,2,171,"For Sale",2024-06-26,18769582
+190,"Runda","Condo",5,3,111,"For Rent",2024-12-26,53211
+191,"Donholm","Apartment",3,4,52,"For Sale",2024-08-23,11367963
+192,"Lavington","Apartment",1,4,153,"For Sale",2024-12-02,13102921
+193,"Parklands","Maisonette",3,4,224,"For Rent",2024-07-04,172376
+194,"South C","Townhouse",3,3,135,"For Rent",2024-03-01,168984
+195,"Donholm","Maisonette",2,3,98,"For Rent",2024-02-02,61921
+196,"South C","Apartment",4,3,158,"For Rent",2024-11-12,50000
+197,"Parklands","Apartment",1,3,194,"For Sale",2024-09-01,11329124
+198,"Lavington","Apartment",3,4,152,"For Rent",2024-12-02,150296
+199,"Kahawa Sukari","Townhouse",5,2,104,"For Rent",2024-10-10,169687
+200,"Donholm","Apartment",5,3,68,"For Sale",2024-04-11,6396150
+201,"Donholm","Bungalow",5,3,86,"For Rent",2024-05-11,56453
+202,"Donholm","Maisonette",2,2,136,"For Sale",2024-09-22,7210898
+203,"Karen","Apartment",5,3,177,"For Rent",2024-06-23,97791
+204,"South C","Apartment",5,4,241,"For Sale",2024-01-02,13975406
+205,"Embakasi","Condo",1,2,100,"For Sale",2024-08-07,4612671
+206,"Runda","Condo",5,3,124,"For Sale",2024-12-03,22992438
+207,"Kilimani","Townhouse",1,4,196,"For Sale",2024-02-10,7423379
+208,"Parklands","Townhouse",2,3,138,"For Sale",2024-01-01,9762678
+209,"Parklands","Townhouse",1,2,92,"For Sale",2024-09-23,10463336
+210,"Kilimani","Condo",1,4,177,"For Rent",2024-01-14,86489
+211,"Parklands","Townhouse",2,2,285,"For Sale",2024-01-08,8381116
+212,"Kilimani","Apartment",4,3,266,"For Sale",2024-09-20,19118055
+213,"Parklands","Bungalow",5,4,142,"For Sale",2024-07-17,11585619
+214,"Runda","Condo",2,1,144,"For Sale",2024-07-09,13896578
+215,"Karen","Townhouse",2,4,141,"For Sale",2024-03-03,16538634
+216,"South C","Maisonette",2,1,68,"For Sale",2024-06-26,8137981
+217,"Karen","Apartment",4,1,200,"For Rent",2024-11-24,87844
+218,"Parklands","Townhouse",5,4,191,"For Sale",2024-06-14,3039522
+219,"Donholm","Apartment",2,3,171,"For Sale",2024-11-12,7069187
+220,"Lavington","Bungalow",3,3,146,"For Sale",2024-07-05,19368343
+221,"Embakasi","Apartment",1,3,55,"For Rent",2024-12-27,114983
+222,"Kileleshwa","Bungalow",4,4,183,"For Sale",2024-02-06,8775412
+223,"Kilimani","Bungalow",3,1,183,"For Sale",2024-02-25,13200089
+224,"Karen","Maisonette",3,1,103,"For Sale",2024-02-21,21643874
+225,"Donholm","Bungalow",3,3,224,"For Rent",2024-03-13,57042
+226,"Lavington","Townhouse",2,4,189,"For Sale",2024-05-07,11492474
+227,"Westlands","Maisonette",4,3,162,"For Sale",2024-05-10,6958917
+228,"Donholm","Apartment",4,4,93,"For Sale",2024-02-03,10502285
+229,"Kilimani","Condo",2,3,179,"For Sale",2024-04-08,9396608
+230,"Kileleshwa","Bungalow",3,1,46,"For Sale",2024-09-13,17305962
+231,"Lavington","Townhouse",1,1,162,"For Sale",2024-05-02,22620714
+232,"Parklands","Condo",4,1,177,"For Sale",2024-05-10,7788754
+233,"Kilimani","Condo",1,1,121,"For Sale",2024-04-05,15960002
+234,"Karen","Townhouse",1,1,172,"For Sale",2024-09-18,11718784
+235,"Karen","Apartment",4,3,88,"For Rent",2024-04-13,114117
+236,"Donholm","Apartment",3,4,87,"For Rent",2024-07-25,144281
+237,"Kahawa Sukari","Townhouse",5,2,168,"For Sale",2024-12-02,5037737
+238,"South C","Bungalow",2,3,125,"For Rent",2024-01-20,215368
+239,"Donholm","Condo",5,4,167,"For Sale",2024-05-25,9047337
+240,"Karen","Maisonette",2,3,68,"For Sale",2024-04-08,26825278
+241,"Kileleshwa","Apartment",4,3,49,"For Sale",2024-12-14,8918263
+242,"Parklands","Townhouse",2,3,128,"For Rent",2024-05-18,301326
+243,"Embakasi","Townhouse",2,1,105,"For Rent",2024-03-09,94283
+244,"South C","Townhouse",4,2,204,"For Sale",2024-07-22,1808857
+245,"Donholm","Bungalow",4,2,169,"For Sale",2024-11-18,6195434
+246,"Kilimani","Maisonette",1,4,146,"For Sale",2024-10-20,11283719
+247,"Karen","Maisonette",3,3,116,"For Rent",2024-10-18,77375
+248,"Karen","Bungalow",1,3,242,"For Sale",2024-12-15,24698780
+249,"Kahawa Sukari","Condo",3,2,170,"For Sale",2024-10-10,6092916
+250,"Karen","Townhouse",3,1,243,"For Sale",2024-11-06,4777615
+251,"South C","Bungalow",3,1,206,"For Rent",2024-01-21,149240
+252,"Lavington","Bungalow",5,1,189,"For Sale",2024-04-05,17702513
+253,"Kileleshwa","Apartment",2,3,122,"For Rent",2024-05-06,244304
+254,"Kilimani","Condo",1,4,261,"For Rent",2024-05-17,166537
+255,"Kilimani","Condo",5,1,186,"For Sale",2024-10-02,14251051
+256,"Kileleshwa","Apartment",3,2,114,"For Sale",2024-06-17,16282797
+257,"Kilimani","Apartment",3,4,129,"For Sale",2024-10-29,12480665
+258,"Kileleshwa","Apartment",3,2,255,"For Sale",2024-12-27,16385056
+259,"Kahawa Sukari","Condo",3,4,205,"For Rent",2024-01-30,197444
+260,"Kilimani","Condo",1,2,93,"For Sale",2024-06-26,16000734
+261,"Westlands","Townhouse",3,1,47,"For Sale",2024-11-26,1037709
+262,"Kileleshwa","Maisonette",3,2,213,"For Sale",2024-10-10,17546031
+263,"Kileleshwa","Maisonette",2,3,118,"For Sale",2024-03-22,20168748
+264,"Karen","Townhouse",5,3,125,"For Sale",2024-09-07,9545656
+265,"Donholm","Maisonette",5,4,56,"For Sale",2024-07-12,5609693
+266,"Parklands","Apartment",2,1,237,"For Rent",2024-01-21,133553
+267,"Embakasi","Bungalow",5,4,144,"For Sale",2024-08-16,8526765
+268,"Parklands","Condo",2,3,68,"For Sale",2024-04-10,4868466
+269,"Parklands","Bungalow",3,3,213,"For Sale",2024-08-31,6593912
+270,"Embakasi","Apartment",1,3,150,"For Sale",2024-07-01,7145290
+271,"Westlands","Maisonette",3,1,102,"For Rent",2024-05-26,50000
+272,"Lavington","Townhouse",3,2,89,"For Sale",2024-08-07,15608352
+273,"Runda","Townhouse",5,2,156,"For Sale",2024-03-28,13947877
+274,"Runda","Apartment",5,2,215,"For Sale",2024-08-13,17249684
+275,"Westlands","Condo",2,4,140,"For Rent",2024-06-18,172358
+276,"South C","Apartment",4,4,114,"For Rent",2024-11-04,91012
+277,"Westlands","Townhouse",3,2,208,"For Sale",2024-07-30,9163461
+278,"Kileleshwa","Bungalow",5,1,203,"For Sale",2024-09-03,14713379
+279,"South C","Townhouse",1,2,212,"For Sale",2024-11-20,7578458
+280,"Westlands","Condo",1,1,165,"For Rent",2024-05-25,162551
+281,"Donholm","Condo",5,2,106,"For Sale",2024-08-06,4563281
+282,"South C","Townhouse",3,4,172,"For Sale",2024-10-23,7251048
+283,"Donholm","Bungalow",2,1,127,"For Sale",2024-08-10,6739105
+284,"Lavington","Bungalow",5,2,21,"For Sale",2024-03-15,15240265
+285,"Kileleshwa","Maisonette",4,1,168,"For Sale",2024-12-14,7977271
+286,"Embakasi","Condo",1,3,195,"For Sale",2024-03-05,7629146
+287,"Parklands","Condo",5,2,171,"For Rent",2024-01-07,71013
+288,"Donholm","Apartment",5,4,161,"For Sale",2024-02-15,5210857
+289,"Runda","Bungalow",1,1,154,"For Sale",2024-06-11,13270093
+290,"South C","Maisonette",1,1,176,"For Sale",2024-01-13,12070511
+291,"Karen","Bungalow",5,4,113,"For Sale",2024-12-01,13904443
+292,"Runda","Townhouse",4,1,79,"For Rent",2024-10-10,55182
+293,"Kilimani","Maisonette",5,2,157,"For Sale",2024-12-18,20472891
+294,"Westlands","Condo",4,4,110,"For Sale",2024-09-20,6336139
+295,"Kileleshwa","Bungalow",5,1,179,"For Sale",2024-09-07,17162457
+296,"Karen","Bungalow",5,4,77,"For Sale",2024-02-20,8795732
+297,"Kilimani","Maisonette",1,1,231,"For Rent",2024-03-08,82167
+298,"Westlands","Maisonette",2,3,221,"For Sale",2024-04-17,10494324
+299,"Donholm","Townhouse",5,4,100,"For Sale",2024-10-25,10538924
+300,"Kileleshwa","Maisonette",1,2,221,"For Rent",2024-07-02,217373
